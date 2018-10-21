@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.kinja-img.com/gawker-media/image/upload/s--yuEnPUPF--/c_scale,f_auto,fl_progressive,q_80,w_800/e9qeogwcvja28sxtp4ze.png" title="planets"></p>
+<p align="center"><img src="404.png" title="404></p>
 
 # Seal Team 404
 Team Not Found
@@ -57,3 +57,5 @@ The refugee population in Rukban have fled Islamic State controlled territories 
 On the Syrian side, the Syrian government has blocked all avenues of aid to this camp.  On the Jordanian side, humanitarian aid has halted due to the increased danger for Jordanian Soldiers and NGO workers.
 
 As of this month, UNICEF estimates that 45,000 people live at the camp and have reported the death of two children due to starvation. The UN announced last week that preparations are underway for the first aid convoy in 9 months to reach Rukban in the next few days.
+
+<p align="center"><img src="https://i.kinja-img.com/gawker-media/image/upload/s--yuEnPUPF--/c_scale,f_auto,fl_progressive,q_80,w_800/e9qeogwcvja28sxtp4ze.png" title="planets"></p>
