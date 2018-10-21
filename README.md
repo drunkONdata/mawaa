@@ -15,8 +15,10 @@ This weekend, we felt particularly compelled by the challenge to collect and ana
 
 Design an approach that uses NASA Earth observations data to characterize land cover & land use conditions at informal settlements.
 
-#### Seal Team 404
-##### Team Not Found
+#### Seal Team 404 (Team Not Found)
+
+* Abhi Ban
+
 Space Apps Challenge Hackathon
 Seattle, WA
 October 19-21, 2018
@@ -35,9 +37,13 @@ Utilize an ensemble of various machine learning techniques including K-means clu
 
 
 ### Scope
-<p align="center">
-  <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/spaceapps_stickers-white.png" width="350" title="HACKtheMACHINE Seattle">
-</p>
+Utilize an ensemble of various machine learning techniques including K-means clustering, open vision and time series forecasting to quantify & predict number of structures and infer populations at a refugee camp. 
+
+Our solution is:
+* Scalable to other settlements
+* Sensitive to the local geography & climate
+* Can be adapted to be easily understandable for residents, humanitarians, policy makers, scientists, and others who are committed to the welfare of vulnerable populations
+
 
 ### Modeling
 
