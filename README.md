@@ -43,6 +43,21 @@ Utilize an ensemble of various machine learning techniques including K-means clu
 
 ### Modeling
 
+Satellite imagery was taken from the Sentinel-2 dataset. For the initial analysis the image below was used:
+
+![Rukban](rukban.png)
+
+K-means clusering, by detecting man-made structures, provides a good estimation of population density
+
+![Rukban](rukban_clustered.png)
+
+Applying a binary filter
+
+![Rukban](rukban_binary.png)
+
+Several Blob Detection Algorithms are applied as well
+
+![Rukban](rukban_blobs.png)
 
 ### Future Steps
 
@@ -53,7 +68,7 @@ Utilize an ensemble of various machine learning techniques including K-means clu
 * Incorporating imaging from different spectra for machine learning platform
 * Develop app that governments and NGOS can use to allocate resources and develop resonse plans
 
-#### Additional Background
+### Additional Background
 
 In Northeastern corner Jordan, at the joint border of Syria and Iraq, there is a refugee camp in dire need of aid. This camp is in Rukban. It is often referred to as the most desperate settlement of Syrian refugees. This is not only due to its remoteness, but also due to the Jordanian government’s desire to restrict refugee access to Jordan from this area due to security concerns. 
 
