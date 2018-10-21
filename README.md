@@ -23,9 +23,9 @@ Design an approach that uses NASA Earth observations data to characterize land c
 * Jared Anderson
 * Kevin Africa
 
-Space Apps Challenge Hackathon
-Seattle, WA
-October 19-21, 2018
+Space Apps Challenge Hackathon  
+Seattle, WA  
+October 19-21, 2018  
 
 <p align="center">
   <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/spaceapps_stickers-white.png" width="350" title="HACKtheMACHINE Seattle">
@@ -82,5 +82,27 @@ The refugee population in Rukban have fled Islamic State controlled territories 
 On the Syrian side, the Syrian government has blocked all avenues of aid to this camp.  On the Jordanian side, humanitarian aid has halted due to the increased danger for Jordanian Soldiers and NGO workers.
 
 As of this month, UNICEF estimates that 45,000 people live at the camp and have reported the death of two children due to starvation. The UN announced last week that preparations are underway for the first aid convoy in 9 months to reach Rukban in the next few days.
+
+### License
+MIT License
+
+Copyright (c) 2018 Kevin Africa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
 <p align="center"><img src="https://i.kinja-img.com/gawker-media/image/upload/s--yuEnPUPF--/c_scale,f_auto,fl_progressive,q_80,w_800/e9qeogwcvja28sxtp4ze.png" title="planets"></p>
