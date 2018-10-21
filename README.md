@@ -16,6 +16,13 @@ This weekend, we felt particularly compelled by the challenge to collect and ana
 Design an approach that uses NASA Earth observations data to characterize land cover & land use conditions at informal settlements.
 
 #### Seal Team 404 (Team Not Found)
+
+* Abhi Banerjee
+* Grace Shea
+* Chris Bowers
+* Jared Anderson
+* Kevin Africa
+
 Space Apps Challenge Hackathon
 Seattle, WA
 October 19-21, 2018
