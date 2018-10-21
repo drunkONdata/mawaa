@@ -16,9 +16,6 @@ This weekend, we felt particularly compelled by the challenge to collect and ana
 Design an approach that uses NASA Earth observations data to characterize land cover & land use conditions at informal settlements.
 
 #### Seal Team 404 (Team Not Found)
-
-* Abhi Ban
-
 Space Apps Challenge Hackathon
 Seattle, WA
 October 19-21, 2018
@@ -37,13 +34,10 @@ Utilize an ensemble of various machine learning techniques including K-means clu
 
 
 ### Scope
-Utilize an ensemble of various machine learning techniques including K-means clustering, open vision and time series forecasting to quantify & predict number of structures and infer populations at a refugee camp. 
 
-Our solution is:
-* Scalable to other settlements
-* Sensitive to the local geography & climate
-* Can be adapted to be easily understandable for residents, humanitarians, policy makers, scientists, and others who are committed to the welfare of vulnerable populations
+Rukban, Syria - At the northeastern corner Jordan, at the joint border of Syria and Iraq, there is a refugee camp in dire need of aid. 
 
+It is often referred to as the most desperate settlement of Syrian refugees. Due to its remoteness, but also due to the Jordanian government’s desire to restrict refugee access.
 
 ### Modeling
 
