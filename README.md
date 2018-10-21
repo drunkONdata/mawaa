@@ -1,4 +1,4 @@
-<p align="center"><img src="404.png" title="404></p>
+![404](404.png)
 
 # Seal Team 404
 Team Not Found
