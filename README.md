@@ -1,19 +1,8 @@
 ![HEader](head.png)
 
-# Seal Team 404
-Team Not Found
-## Space Apps Challenge Hackathon
-## Seattle, WA
-## October 19-21, 2018
-
-<p align="center">
-  <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/spaceapps_stickers-white.png" width="350" title="HACKtheMACHINE Seattle">
-</p>
-
 # مأوى
 # Ma'waa
 ## Predicting Displaced Populations in Conflict Zones
-
 
 ### Motivation:
 
@@ -26,6 +15,15 @@ This weekend, we felt particularly compelled by the challenge to collect and ana
 
 Design an approach that uses NASA Earth observations data to characterize land cover & land use conditions at informal settlements.
 
+#### Seal Team 404
+##### Team Not Found
+Space Apps Challenge Hackathon
+Seattle, WA
+October 19-21, 2018
+
+<p align="center">
+  <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/spaceapps_stickers-white.png" width="350" title="HACKtheMACHINE Seattle">
+</p>
 
 ### Project Solution
 
