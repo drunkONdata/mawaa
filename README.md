@@ -46,7 +46,12 @@ Utilize an ensemble of various machine learning techniques including K-means clu
 
 ### Future Steps
 
-* Design Web App
+* Engage NGOs and aid workers for greater nuanced understanding of metrics and KPIs that matter to their planning and policy making.
+* Create dashboard that automatically updates population forecasts with updated satellite imagery data.
+* Aggregate high resolution satellite imagery for various conflict zones to be analyzed by the Ma’waa machine learning platform to mitigate data scarcity and build robust time series forecast
+* Model validation with labeled data
+* Incorporating imaging from different spectra for machine learning platform
+* Develop app that governments and NGOS can use to allocate resources and develop resonse plans
 
 #### Additional Background
 
