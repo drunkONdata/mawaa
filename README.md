@@ -55,7 +55,7 @@ Applying a binary filter
 
 ![Rukban](rukban_binary.png)
 
-Several Blob Detection Algorithms are applied as well
+Several Blob Detection Algorithms are applied as well. By using a count of the detected blobs and the density of the clustering, we can estimate population density and the change of population density over time.
 
 ![Rukban](rukban_blobs.png)
 
